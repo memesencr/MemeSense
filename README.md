@@ -1,4 +1,4 @@
-# 🎯 MemeSense CS2 
+# 🎯 MemeSense CS2 Free
 
 ![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge&logo=github)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
